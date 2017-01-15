@@ -1,4 +1,4 @@
-## My resume in LaTeX
+## My resume generated from LaTeX
 
 <https://github.com/stanzhai/resume/blob/master/resume.pdf>
 
