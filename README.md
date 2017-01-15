@@ -3,7 +3,7 @@
 Environment：macOS + Sublime Text 3
 
 1. Install `BasicTeX` from <http://tug.org/mactex/>
-2. Install `latexmk` by TexLive package manager:
+2. Install `latexmk` by TexLive package manager in your terminal:
 
 	```
 	sudo tlmgr update --self
