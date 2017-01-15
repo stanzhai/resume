@@ -17,4 +17,5 @@ Environment：macOS + Sublime Text 3
 ## References
 
 1. <http://www.readern.com/sublime-text-latex-chinese-under-mac.html>
-2. <http://rpi.edu/dept/arc/training/latex/resumes/>
+2. <https://www.zhihu.com/question/20928639>
+3. <http://rpi.edu/dept/arc/training/latex/resumes/>
