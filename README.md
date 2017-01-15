@@ -1,3 +1,7 @@
+## My resume in LaTeX
+
+<https://github.com/stanzhai/resume/blob/master/resume.pdf>
+
 ## How to build
 
 Environment：macOS + Sublime Text 3
