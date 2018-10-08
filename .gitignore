@@ -4,5 +4,7 @@
 !res.cls
 !resume.pdf
 !resume.tex
+!resume.js
+!package.json
 
 !.gitignore

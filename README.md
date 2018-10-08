@@ -2,6 +2,8 @@
 
 <https://github.com/stanzhai/resume/blob/master/resume.pdf>
 
+Visit my resume from a terminal: `curl stanzhai.site`
+
 ## How to build
 
 Environment：macOS + Sublime Text 3
