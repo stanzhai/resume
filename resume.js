@@ -5,7 +5,7 @@ var data = [
 	'',
 	'自我介绍'.green.bold,
 	'6年+工作经验，现居北京',
-	'专注大数据，Apache Spark Contributor，了解大数据生态常用开源系统，有丰富的大数据BI系统构建经验；',
+	'专注大数据领域，Apache Spark Contributor，有丰富的大数据BI系统构建经验；',
 	'熟悉SQL、Web技术栈及Linux；工具控；热爱编码，喜欢探索未知领域。',
 	'',
 	'教育经历'.green.bold,
